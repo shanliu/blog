@@ -1,6 +1,5 @@
 # RUST笔记
 
-* [RUST笔记](README.md)
 * [基本概念](base.md)
 * [Trait](trait.md)
 * [mod](mod.md)

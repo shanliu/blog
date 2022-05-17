@@ -1,1 +1,1 @@
-> [ 一些学习笔记 ](https://shanliu.github.io/blog/)
+> [ 一些学习笔记 ](https://shanliu.netlify.app/)

@@ -53,11 +53,11 @@
 
 - [PHP笔记](php/SUMMARY.md)
   - [composer](php/composer.md)
-  - [ext](php/ext.md)
-  - [php7-feature](php/php7-feature.md)
+  - [扩展开发](php/ext.md)
+  - [php7一些特性](php/php7-feature.md)
   - [php快速排序](php/sort.md)
   - [larvale](php/larvale.md)
-  - [re2c\&bison](php/re2candbison.md)
+  - [re2c&bison](php/re2candbison.md)
   - [rabbitmq](php/rabbitmq.md)
   - [proto](php/proto.md)
 

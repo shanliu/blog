@@ -55,7 +55,7 @@
   - [composer](php/composer.md)
   - [ext](php/ext.md)
   - [php7-feature](php/php7-feature.md)
-  - [sort](php/sort.md)
+  - [php快速排序](php/sort.md)
   - [larvale](php/larvale.md)
   - [re2c\&bison](php/re2candbison.md)
   - [rabbitmq](php/rabbitmq.md)
